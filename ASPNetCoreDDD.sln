@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{F5D0BDC7-AB42-44FC-BFAA-A44B098D5DFA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{E6803E7F-71A5-417C-A24C-F5D67F739B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infratructure", "Infratructure\Infratructure.csproj", "{E9E8842F-CF07-441F-8828-F8C6A76757AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5D0BDC7-AB42-44FC-BFAA-A44B098D5DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D0BDC7-AB42-44FC-BFAA-A44B098D5DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D0BDC7-AB42-44FC-BFAA-A44B098D5DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D0BDC7-AB42-44FC-BFAA-A44B098D5DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6803E7F-71A5-417C-A24C-F5D67F739B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6803E7F-71A5-417C-A24C-F5D67F739B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6803E7F-71A5-417C-A24C-F5D67F739B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6803E7F-71A5-417C-A24C-F5D67F739B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E8842F-CF07-441F-8828-F8C6A76757AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E8842F-CF07-441F-8828-F8C6A76757AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E8842F-CF07-441F-8828-F8C6A76757AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E8842F-CF07-441F-8828-F8C6A76757AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A3E91F9-6DCA-48C7-972E-76023ED09E86}
+	EndGlobalSection
+EndGlobal

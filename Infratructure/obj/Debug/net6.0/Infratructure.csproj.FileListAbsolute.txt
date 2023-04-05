@@ -1,0 +1,15 @@
+C:\Users\caoxu\source\repos\ASPNetCoreDDD\Infratructure\obj\Debug\net6.0\Infratructure.csproj.AssemblyReference.cache
+C:\Users\caoxu\source\repos\ASPNetCoreDDD\Infratructure\obj\Debug\net6.0\Infratructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caoxu\source\repos\ASPNetCoreDDD\Infratructure\obj\Debug\net6.0\Infratructure.AssemblyInfoInputs.cache
+C:\Users\caoxu\source\repos\ASPNetCoreDDD\Infratructure\obj\Debug\net6.0\Infratructure.AssemblyInfo.cs
+C:\Users\caoxu\source\repos\ASPNetCoreDDD\Infratructure\obj\Debug\net6.0\Infratructure.csproj.CoreCompileInputs.cache
+C:\Users\caoxu\source\repos\ASPNetCoreDDD\Infratructure\bin\Debug\net6.0\Infratructure.deps.json
+C:\Users\caoxu\source\repos\ASPNetCoreDDD\Infratructure\bin\Debug\net6.0\Infratructure.dll
+C:\Users\caoxu\source\repos\ASPNetCoreDDD\Infratructure\bin\Debug\net6.0\Infratructure.pdb
+C:\Users\caoxu\source\repos\ASPNetCoreDDD\Infratructure\bin\Debug\net6.0\Domain.dll
+C:\Users\caoxu\source\repos\ASPNetCoreDDD\Infratructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\caoxu\source\repos\ASPNetCoreDDD\Infratructure\obj\Debug\net6.0\Infratructure.csproj.CopyComplete
+C:\Users\caoxu\source\repos\ASPNetCoreDDD\Infratructure\obj\Debug\net6.0\Infratructure.dll
+C:\Users\caoxu\source\repos\ASPNetCoreDDD\Infratructure\obj\Debug\net6.0\refint\Infratructure.dll
+C:\Users\caoxu\source\repos\ASPNetCoreDDD\Infratructure\obj\Debug\net6.0\Infratructure.pdb
+C:\Users\caoxu\source\repos\ASPNetCoreDDD\Infratructure\obj\Debug\net6.0\ref\Infratructure.dll
